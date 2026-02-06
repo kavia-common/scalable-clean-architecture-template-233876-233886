@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/scalable-clean-architecture-template-233876-233886/frontend_app"
+}
